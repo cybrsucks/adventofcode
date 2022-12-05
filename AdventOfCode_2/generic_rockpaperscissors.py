@@ -1,13 +1,13 @@
 # this is one game
-# A, X
-# B, Y
-# C, Z
+# rock, paper
+# paper, scissors
+# scissors, rock
 
 # this is one round (e.g. first round)
-# A, X
+# rock, paper
 
 # this is another round (e.g. second round)
-# B, Y
+# paper, scissors
 
 import os
 import sys
